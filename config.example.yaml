@@ -1,0 +1,19 @@
+# Copy to config.yaml and run:  python -m pdf_toolkit replace input/ -c config.yaml
+# Each section holds the defaults for one command. CLI flags override these values.
+
+replace:
+  find: "ACME Corp"
+  replace: "Example Inc"
+
+insert_after:
+  anchor: "Contact:"
+  text: "+1-555-0100"
+
+headings:
+  min_size: 16
+  bold: true
+  scale: 1.1
+  seed: 42
+  suffixes:        # one is picked per heading; delete the list to add nothing
+    - "- Overview"
+    - "- Summary"
