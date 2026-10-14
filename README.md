@@ -1,5 +1,9 @@
 # pdf-batch-toolkit
 
+[![tests](https://github.com/Moeez-03/pdf-batch-toolkit/actions/workflows/tests.yml/badge.svg)](https://github.com/Moeez-03/pdf-batch-toolkit/actions/workflows/tests.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+
 A small, scriptable CLI for batch-editing text in PDF files. Point it at one PDF or a whole folder, pick a command, and it writes edited copies to an output folder. Your originals are never modified.
 
 Built with Python and [PyMuPDF](https://pymupdf.readthedocs.io/).
