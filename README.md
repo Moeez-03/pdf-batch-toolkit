@@ -77,3 +77,14 @@ pytest
 ## License
 
 MIT, see [LICENSE](LICENSE).
+---
+
+## 💼 Need a Custom Automation or Scraping Solution?
+
+I help companies, startups, and agencies automate complex workflows:
+- **Custom Document & PDF Processing:** High-volume parsing, dynamic generation, and batch editing.
+- **Web Scraping & Data Pipelines:** Multi-threaded e-commerce scrapers, API integrations, and ETL pipelines.
+- **Consulting & Contract Development:** Clean, scalable Python architecture for your business.
+
+👉 **[Book a 15-Minute Discovery Call](https://cal.com/abdul-moeez)**  
+📩 Or connect via **[LinkedIn](https://www.linkedin.com/in/abdul-moeez-nadeem-98a468205/)** | **[Website](https://amethystdevelopers.com)**
