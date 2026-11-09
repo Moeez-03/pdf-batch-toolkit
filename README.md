@@ -77,6 +77,7 @@ pytest
 ## License
 
 MIT, see [LICENSE](LICENSE).
+
 ---
 
 ## 💼 Need a Custom Automation or Scraping Solution?
