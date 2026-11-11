@@ -6,6 +6,16 @@
 
 A small, scriptable CLI for batch-editing text in PDF files. Point it at one PDF or a whole folder, pick a command, and it writes edited copies to an output folder. Your originals are never modified.
 
+```text
+$ pdf-toolkit replace --input ./contracts --target "Acme Corp" --replacement "Apex Global"
+[●] Scanning 42 PDF files in ./contracts ...
+[✔] matched: contract_nda_2024.pdf (3 replacements, page 1, 4)
+[✔] matched: vendor_agreement.pdf (1 replacement, page 2)
+[✔] matched: master_services.pdf (5 replacements, page 1, 2, 7)
+------------------------------------------------------------
+[SUCCESS] Processed 42 files | 9 replacements applied | 0 errors (0.34s)
+```
+
 Built with Python and [PyMuPDF](https://pymupdf.readthedocs.io/).
 
 ## Features
